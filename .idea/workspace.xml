@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7318ccfe-d583-4432-824b-a610812a9c98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumbersUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumbersUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DevOpsTest-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/DevOpsTest-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/NumbersUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/NumbersUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/DevOpsTest-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/NumbersUtilTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/NumbersUtilTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-NumbersUtilTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-NumbersUtilTest.xml" afterDir="false" />
     </list>
@@ -40,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -91,34 +94,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582411094719</updated>
-      <workItem from="1582411098028" duration="2582000" />
+      <workItem from="1582411098028" duration="2850000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;fix on tests&quot;">
+      <created>1582416228558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582416228558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;fix on tests&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;fix on tests&quot;" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="328" key="GridCell.Tab.0.bottom" timestamp="1582416198390">
+    <state x="556" y="92" width="865" height="920" key="CommitChangelistDialog2" timestamp="1582416228370">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="328" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582416198390" />
-    <state width="1807" height="328" key="GridCell.Tab.0.center" timestamp="1582416198389">
+    <state x="556" y="92" width="865" height="920" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582416228370" />
+    <state width="1807" height="328" key="GridCell.Tab.0.bottom" timestamp="1582416463238">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="328" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582416198389" />
-    <state width="1807" height="328" key="GridCell.Tab.0.left" timestamp="1582416198388">
+    <state width="1807" height="328" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582416463238" />
+    <state width="1807" height="328" key="GridCell.Tab.0.center" timestamp="1582416463236">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="328" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582416198388" />
-    <state width="1807" height="328" key="GridCell.Tab.0.right" timestamp="1582416198389">
+    <state width="1807" height="328" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582416463236" />
+    <state width="1807" height="328" key="GridCell.Tab.0.left" timestamp="1582416463235">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="328" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582416198389" />
+    <state width="1807" height="328" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582416463235" />
+    <state width="1807" height="328" key="GridCell.Tab.0.right" timestamp="1582416463237">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="328" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582416463237" />
     <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1582412050897">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582412050897" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582416230655">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582416230655" />
     <state x="754" y="224" width="469" height="656" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582411217593">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
